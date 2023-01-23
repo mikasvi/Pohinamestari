@@ -1,5 +1,5 @@
-/*  Ryhmä10, Pöhinämestari
-    Valmis versio
+/*  
+Pöhinämestari
 */
 #include <OneWire.h>  //Lämpötila-anturi
 #include <DallasTemperature.h>  //Lämpötila-anturi
